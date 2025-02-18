@@ -1,3 +1,1 @@
-# Sample Project: Git Assignment
-
-- Version Control Basics
+This section is added by Aaditya vijayvargiya
